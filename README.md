@@ -1,1 +1,1 @@
-This is my first task using git.
+This lab is to help us learn git.
